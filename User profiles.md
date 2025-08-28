@@ -1,4 +1,4 @@
-Edit from profile editor page on Directory
+Edit from profile editor page on [[Universal Directory]]
 
 user profile tied to an app, manage
 Okta profile
@@ -14,4 +14,4 @@ NO symbols or spaces in teh variable name.
 gets display name too.
 
 
-required: first, last, username, primary email
+required: first, last, username(login), primary email

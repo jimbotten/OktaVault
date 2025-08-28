@@ -1,5 +1,5 @@
 Centralized user management tool
-sycn data from HR mgmt and external directory
+Syncs data from HR tool and external directory
 can then provision apps
 
 [[User profiles]]

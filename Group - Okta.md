@@ -2,7 +2,7 @@ created and managed  in okta
 
 contains any user account
 
-[[user - application sourced]]
+[[User - Application sourced]]
 [[User - Directory Sourced]]
 [[User  - Okta Sourced]]
 

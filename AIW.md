@@ -1,5 +1,5 @@
 
-application integration wizard
+Application Integration Wizard
 
 from app integration panel, create new app integration
 choose swa

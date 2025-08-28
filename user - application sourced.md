@@ -1,1 +1,1 @@
-imported from applciation
+imported from application

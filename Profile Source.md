@@ -1,4 +1,4 @@
- is multiple sources of truth for users in the [[Universal Directory]]
+Is multiple sources of truth for users in the [[Universal Directory]]
 The have a priority set to them to control which attributes are applied
 Profile source priority is universal in the tool
 
